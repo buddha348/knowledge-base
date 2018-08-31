@@ -55,7 +55,7 @@ Secondly, most of the people involved in this world are pretty technical and som
 8. To safely keep your account you have 3 pieces of information:
    * Your address (0x7573aB.....)
    * Your password
-   * Your private key
+e   * Your private key
 
 The private key is like a password, but way more intense. Plus, it's a password that is protected by another password. In Ethereum Wallet, this private key is in the form of a `keystore file`. You need to make a backup of this in case anything happens to your computer.
 
